@@ -1,0 +1,6 @@
+@"
+node_modules/
+dist/
+stackly-temp/
+.env
+"@ | Set-Content .gitignore
